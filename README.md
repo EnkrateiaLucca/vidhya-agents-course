@@ -3,10 +3,6 @@
 - [Live-training official website from Analytics]()
 # Overview
 
-
-## Notebooks
-
-
 ## Setup
 
 **Conda**
@@ -60,6 +56,18 @@ deactivate
 ## To use this Environment with Jupyter Notebooks:
 
 ```python3 -m ipykernel install --user --name=vidhya-agents```
+
+## Set up your OAI_CONFIG_LIST file for autogen
+- Create a file named: OAI_CONFIG_LIST containing your API keys for OpenAI as demonstrated below:
+
+```
+[
+    {
+        "model": "gpt-4o",
+        "api_key": "YOUR API KEY HERE"
+    }
+]
+``` 
 
 ## Official Training Website
 
