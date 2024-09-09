@@ -1,4 +1,4 @@
-# Notebooks for the O'Reilly live-training: "Getting Started with LangChain"
+# Notebooks for the Analytics Vidhya course: "Building Agents"
 
 - [Live-training official website from Analytics]()
 # Overview
